@@ -1,0 +1,7 @@
+.checkboxStyle{
+  
+    width: 20px !important;
+    height: 30px !important;
+    margin-top: 10px;
+    transform: translatey(10px);
+}

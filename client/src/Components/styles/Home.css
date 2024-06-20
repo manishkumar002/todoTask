@@ -1,0 +1,23 @@
+.h-box{
+    min-height: 400px;
+    width: 400px;
+    border: 2px solid black;
+}
+
+.home{
+    margin-top: 50px;
+}
+
+.h-button{
+    height: 40px;
+    width: 200px;
+    line-height:10px ;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.h-img{
+    margin: 50px auto;
+    
+}
